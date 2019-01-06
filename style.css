@@ -1,0 +1,23 @@
+h1{
+    color: pink;
+}
+
+body{
+    background-color: black;
+}
+
+h2{
+    color: yellow;
+}
+
+h3{
+    color: blueviolet;
+}
+p{
+    color:turquoise;
+}
+
+#hugo:hover{
+    opacity: 0.7;
+}
+
